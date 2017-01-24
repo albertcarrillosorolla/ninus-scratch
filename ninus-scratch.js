@@ -134,7 +134,7 @@
 		["b", "is user %m.users tracked", "isTracked"],
 		["r", "user %m.users position %m.coordinate", "getPosition"],
 		["b", "is user %m.users %m.interaction", "getInteraction"],
-		["r", "user %m.users , effector %m.endeffector , coordinate %m.effectoraxis ", "getEffectorCoordiate"],
+		["r", "user %m.users , effector %m.endeffector , coordinate %m.effectoraxis", "getEffectorCoordiate"],
 	],
 	menus: {
 		users: ["1","2","3", "4", "5", "6"],
